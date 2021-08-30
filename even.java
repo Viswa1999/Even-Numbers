@@ -1,3 +1,4 @@
+#simple java program to print even numbers from zero to one
 import java.util.Scanner;
 public class Solution{
     public static void main(String[] args){
